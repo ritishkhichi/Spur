@@ -1,6 +1,6 @@
 # Spur AI Live Chat Agent
 
-Take-home submission for **Spur — Founding Full-Stack Engineer**.
+
 
 A mini customer support chat widget where an AI agent answers questions about a fictional store (**Spur Boutique**) using the **Google Gemini API**. Messages are persisted in **SQLite** on the backend; the UI starts fresh on each page load so visitors do not see each other's chats.
 
